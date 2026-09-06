@@ -3,7 +3,7 @@
 **Full-Stack Developer · Forward Deployed Software Engineer**
 Istanbul, Türkiye · [skucukkayis@gmail.com](mailto:skucukkayis@gmail.com)
 
-I take a problem from the first conversation to production. Schema, API, interface, deploy — I own the whole path rather than a slice of it. Backend-heavy by habit, Laravel and Postgres most days.
+I take a problem from the first conversation to production. Schema, API, interface, deploy — I own the whole path rather than a slice of it. TypeScript, Python and Rust are where I'm strongest; PHP/Laravel is what I've shipped the most.
 
 Working forward deployed means sitting close to the actual problem instead of picking tickets off a board: understanding what someone needs, building the thing, putting it in front of them, then fixing what turns out to be wrong. Lately that work keeps landing on LLMs — API integrations, retrieval, structured output, agent tooling.
 
@@ -15,17 +15,24 @@ I also build and run my own products, which is the same job with no one else to 
 
 - 🚀 Building <!-- TODO: ürününün adı + tek cümle: "X — Y için Z yapan SaaS" --> on my own
 - 🤖 Shipping LLM-backed features: API integrations, RAG, structured output, agent tooling
-- 🧠 Learning Go — moving performance-critical services off PHP
+- 🧠 Picking up Go, mostly for small services and CLI tools
 - 🤝 Open to forward deployed / full-stack roles, freelance work, and co-founder conversations
 
 ---
 
 ### Tech
 
-**Backend** &nbsp;
+**Languages** &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**Backend** &nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Data** &nbsp;
@@ -95,8 +102,10 @@ also:
 location: Istanbul, Türkiye
 email: skucukkayis@gmail.com
 languages_spoken: [Turkish (native), English]
-primary_stack: [PHP, Laravel, PostgreSQL, MySQL]
-learning: [Go]
+languages_advanced: [TypeScript, Python, Rust]
+languages_proficient: [PHP, SQL]
+languages_learning: [Go]
+primary_stack: [Laravel, Node.js, FastAPI, PostgreSQL, Redis, React, Vue]
 focus_areas:
   - End-to-end product delivery: schema, API, interface, deployment
   - REST API design and backend architecture
