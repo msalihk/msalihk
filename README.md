@@ -1,20 +1,22 @@
 # Salih Küçükkayış
 
-**Backend Developer · Builder · Founder**
+**Full-Stack Developer · Forward Deployed Software Engineer**
 Istanbul, Türkiye · [skucukkayis@gmail.com](mailto:skucukkayis@gmail.com)
 
-I build backend systems with PHP/Laravel and ship products end to end — from database schema to the thing users actually click. Lately most of my work sits where backend meets LLMs: API design for AI features, retrieval pipelines, and agent-friendly integrations.
+I take a problem from the first conversation to production. Schema, API, interface, deploy — I own the whole path rather than a slice of it. Backend-heavy by habit, Laravel and Postgres most days.
 
-I'm not only writing code for someone else's roadmap. I build and run my own products, which means I own the whole stack: idea, architecture, deployment, users, and the boring parts in between.
+Working forward deployed means sitting close to the actual problem instead of picking tickets off a board: understanding what someone needs, building the thing, putting it in front of them, then fixing what turns out to be wrong. Lately that work keeps landing on LLMs — API integrations, retrieval, structured output, agent tooling.
+
+I also build and run my own products, which is the same job with no one else to hand the hard parts to.
 
 ---
 
 ### What I'm doing right now
 
-- 🚀 Building <!-- TODO: ürününün adı + tek cümle: "X — Y için Z yapan SaaS" --> as a solo founder
-- 🤖 Working on LLM-backed features: API integrations, RAG, structured output, agent tooling
+- 🚀 Building <!-- TODO: ürününün adı + tek cümle: "X — Y için Z yapan SaaS" --> on my own
+- 🤖 Shipping LLM-backed features: API integrations, RAG, structured output, agent tooling
 - 🧠 Learning Go — moving performance-critical services off PHP
-- 🤝 Open to collaboration, freelance backend work, and co-founder conversations
+- 🤝 Open to forward deployed / full-stack roles, freelance work, and co-founder conversations
 
 ---
 
@@ -86,22 +88,25 @@ I'm not only writing code for someone else's roadmap. I build and run my own pro
 ```yaml
 name: Salih Küçükkayış
 username: msalihk
-role: Backend Developer
-also: Founder / Indie Hacker
+role: Full-Stack Developer
+also:
+  - Forward Deployed Software Engineer (FDSE)
+  - Founder / Indie Hacker
 location: Istanbul, Türkiye
 email: skucukkayis@gmail.com
 languages_spoken: [Turkish (native), English]
 primary_stack: [PHP, Laravel, PostgreSQL, MySQL]
 learning: [Go]
 focus_areas:
+  - End-to-end product delivery: schema, API, interface, deployment
   - REST API design and backend architecture
   - LLM integrations (OpenAI/Anthropic APIs, RAG, structured output, MCP)
-  - Full-stack product delivery with Inertia + React/Vue
+  - Customer-facing engineering — scoping the problem, then building it
 building:
   - name: TODO
     description: TODO
     url: TODO
-open_to: [collaboration, freelance backend work, co-founder conversations]
+open_to: [forward deployed roles, full-stack roles, freelance work, co-founder conversations]
 links:
   github: https://github.com/msalihk
   linkedin: https://www.linkedin.com/in/salihkucukkayis
