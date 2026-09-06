@@ -66,16 +66,10 @@ I'm not only writing code for someone else's roadmap. I build and run my own pro
 
 ---
 
-### Stats
-
-<a href="https://github.com/msalihk">
-  <img src="https://github-readme-stats.vercel.app/api?username=msalihk&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Salih Küçükkayış's GitHub statistics" height="165" />
-</a>
-<a href="https://github.com/msalihk">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalihk&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Most used programming languages: PHP, JavaScript, Vue, Blade" height="165" />
-</a>
-
----
+<!-- Stats kartlarını kaldırdım: github-readme-stats'ın public instance'ı kapalı.
+     Geri istersen kendi Vercel deployment'ını kur ve URL'i buradakiyle değiştir:
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+     Alternatif (hiç kırılmaz, SVG'yi repoya commit eder): https://github.com/lowlighter/metrics -->
 
 ### Contact
 
