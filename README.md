@@ -17,6 +17,7 @@ I also build and run my own products under [Saliga Software](https://saligasoftw
 - 🏢 Engineering at [BilginPro](https://bilgin.pro) — high-traffic news platforms and apps for Turkish media
 - 🤖 Shipping LLM-backed features: MCP servers, evals, structured output, retrieval
 - 🧠 Picking up Go, mostly for small services and CLI tools
+- ✍️ Writing at [salihk.dev](https://salihk.dev/blog/): [My app told its first merchant that $144 million was blocked](https://salihk.dev/blog/the-number-i-could-not-check/)
 
 ---
 
@@ -65,7 +66,7 @@ I also build and run my own products under [Saliga Software](https://saligasoftw
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**Feedwatch**](https://feedwatch.co) · live | Catalogue monitoring for online stores. Finds products Google and Meta silently refuse to list, prices the gap, fixes it from the same screen. On the [Shopify App Store](https://apps.shopify.com/feedwatch-1). | TypeScript, React Router, PostgreSQL, Prisma |
+| [**Feedwatch**](https://feedwatch.co) · live | Catalogue monitoring for online stores. Finds products Google and Meta silently refuse to list, prices the gap, fixes it from the same screen. On the [Shopify App Store](https://apps.shopify.com/feedwatch-1). Also: [benchmarks from 3,170 Shopify catalogs](https://feedwatch.co/benchmarks) and [guides to Merchant Center errors](https://feedwatch.co/guides). | TypeScript, React Router, PostgreSQL, Prisma |
 | [**catalog-mcp**](https://github.com/msalihk/catalog-mcp) | MCP server that audits a product catalog for Google Shopping and Meta readiness — per-rule breakdown, sample products, affected catalog value | TypeScript, MCP SDK, Zod |
 | [**laravel-mcp**](https://github.com/msalihk/laravel-mcp) | Turn a Laravel app into an MCP server. Exposes only the tools and Eloquent columns you list, read-only, with Gate checks | PHP, Laravel 12/13 |
 | [**pg-readonly-mcp**](https://github.com/msalihk/pg-readonly-mcp) | MCP server that lets an assistant explore PostgreSQL without being able to change it — every statement parsed and checked before it runs | Rust, rmcp, tokio-postgres |
