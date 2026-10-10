@@ -67,6 +67,9 @@ I also build and run my own products under [Saliga Software](https://saligasoftw
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**Feedwatch**](https://feedwatch.co) · live | Catalogue monitoring for online stores. Finds products Google and Meta silently refuse to list, prices the gap, fixes it from the same screen. On the [Shopify App Store](https://apps.shopify.com/feedwatch-1). Also: [benchmarks from 3,170 Shopify catalogs](https://feedwatch.co/benchmarks) and [guides to Merchant Center errors](https://feedwatch.co/guides). | TypeScript, React Router, PostgreSQL, Prisma |
+| [**Bulk HTTP Requests**](https://apify.com/saliga/bulk-http-requests) · Apify Store | Calls any API once for every row of a CSV, JSON list or Apify dataset, from one request template. Parallel, rate-limited per host, retried; private addresses refused at every redirect and connection | Node.js, undici, Apify |
+| [**Website Screenshot + Change Detection**](https://apify.com/saliga/website-screenshot-change-detection) · Apify Store | Screenshots of many pages on desktop, tablet and mobile in one run, and a pixel comparison with the previous run that highlights what changed | Node.js, Playwright, Apify |
+| [**Keyword Search Volume**](https://apify.com/saliga/keyword-search-volume) · Apify Store | Google search volume, CPC and trend for a keyword list, in up to 20 countries in one run, with up to 48 months of history | Node.js, Apify |
 | [**catalog-mcp**](https://github.com/msalihk/catalog-mcp) | MCP server that audits a product catalog for Google Shopping and Meta readiness — per-rule breakdown, sample products, affected catalog value | TypeScript, MCP SDK, Zod |
 | [**laravel-mcp**](https://github.com/msalihk/laravel-mcp) | Turn a Laravel app into an MCP server. Exposes only the tools and Eloquent columns you list, read-only, with Gate checks | PHP, Laravel 12/13 |
 | [**pg-readonly-mcp**](https://github.com/msalihk/pg-readonly-mcp) | MCP server that lets an assistant explore PostgreSQL without being able to change it — every statement parsed and checked before it runs | Rust, rmcp, tokio-postgres |
@@ -117,6 +120,13 @@ building:
   - name: Feedwatch
     description: Finds the products Google and Meta silently refuse to list, and fixes them
     url: https://feedwatch.co
+apify_actors:
+  - name: Bulk HTTP Requests
+    url: https://apify.com/saliga/bulk-http-requests
+  - name: Website Screenshot + Change Detection
+    url: https://apify.com/saliga/website-screenshot-change-detection
+  - name: Keyword Search Volume
+    url: https://apify.com/saliga/keyword-search-volume
 open_source: [catalog-mcp, laravel-mcp, pg-readonly-mcp, agent-evals, structured-extract, newsroom-rag]
 links:
   github: https://github.com/msalihk
